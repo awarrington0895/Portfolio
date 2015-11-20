@@ -4,4 +4,28 @@
   font-family: Arvo, serif;
   background-color: #999; }
 
+/* About Page */
+/* line 9, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+#about-page {
+  background-color: #aaa; }
+  /* line 14, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  #about-page
+.container-fluid {
+    height: 800px; }
+  /* line 19, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  #about-page
+.row {
+    margin: 200px 50px; }
+  /* line 24, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  #about-page
+.col-md-6 {
+    width: 50%; }
+  /* line 31, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  #about-page
+.img-responsive {
+    border-radius: 120px;
+    width: 50%;
+    margin-top: 20px;
+    margin-right: 20px; }
+
 /*# sourceMappingURL=main.css.map */
