@@ -1,2 +1,25 @@
+/* About Page */
+/* line 2, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+#about-page {
+  background-color: #aaa; }
+  /* line 7, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  #about-page
+.container-fluid {
+    height: 800px; }
+  /* line 12, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  #about-page
+.row {
+    margin: 200px 50px; }
+  /* line 17, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  #about-page
+.col-md-6 {
+    width: 50%; }
+  /* line 24, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  #about-page
+.img-responsive {
+    border-radius: 120px;
+    width: 50%;
+    margin-top: 20px;
+    margin-right: 20px; }
 
 /*# sourceMappingURL=main.css.map */

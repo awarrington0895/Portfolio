@@ -1,0 +1,33 @@
+/* About Page */
+#about-page 
+{
+    
+    background-color: #aaa;
+    
+    .container-fluid 
+    {
+	    height: 800px;
+    }
+    
+    .row 
+    {
+	    margin: 200px 50px;
+    }
+    
+    .col-md-6 
+    {
+	    width: 50%;
+    }
+    
+
+    
+    .img-responsive 
+    {
+	    border-radius: 120px;
+        width: 50%;
+        margin-top: 20px;
+        margin-right: 20px;
+    }
+    
+    
+}
