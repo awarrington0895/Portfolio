@@ -1,26 +1,34 @@
-/* Intro Page */
-/* line 2, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+/*******************************************************
+
+INTRO PAGE
+
+********************************************************/
+/* line 6, C:/Users/Alex/Desktop/portfolio/css/main.scss */
 #intro-page {
   font-family: Arvo, serif;
   background-color: #999; }
 
-/* About Page */
-/* line 9, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+/*******************************************************
+
+ABOUT PAGE
+
+********************************************************/
+/* line 19, C:/Users/Alex/Desktop/portfolio/css/main.scss */
 #about-page {
   background-color: #aaa; }
-  /* line 14, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  /* line 24, C:/Users/Alex/Desktop/portfolio/css/main.scss */
   #about-page
 .container-fluid {
     height: 800px; }
-  /* line 19, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  /* line 29, C:/Users/Alex/Desktop/portfolio/css/main.scss */
   #about-page
 .row {
     margin: 200px 50px; }
-  /* line 24, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  /* line 34, C:/Users/Alex/Desktop/portfolio/css/main.scss */
   #about-page
 .col-md-6 {
     width: 50%; }
-  /* line 31, C:/Users/Alex/Desktop/portfolio/css/main.scss */
+  /* line 41, C:/Users/Alex/Desktop/portfolio/css/main.scss */
   #about-page
 .img-responsive {
     border-radius: 120px;
